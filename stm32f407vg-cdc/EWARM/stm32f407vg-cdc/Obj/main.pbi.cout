@@ -1,19 +1,19 @@
-"C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Src\main.c"
+"C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Src\main.c"
 -std=c99
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Core/Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\EWARM/../Drivers/CMSIS/Include
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\EWARM/../Drivers/CMSIS/Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -I
@@ -21,19 +21,19 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\inc\c
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Drivers\STM32F4xx_HAL_Driver\Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Drivers\STM32F4xx_HAL_Driver\Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Middlewares\ST\STM32_USB_Device_Library\Core\Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Middlewares\ST\STM32_USB_Device_Library\Core\Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Drivers\CMSIS\Device\ST\STM32F4xx\Include
 -I
-C:\Users\DELL-15\Desktop\stm32f407vg-cdc\Drivers\CMSIS\Include
+C:\Users\DELL-15\Documents\GitHub\STM32_MD_Dongle\stm32f407vg-cdc\Drivers\CMSIS\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=0
@@ -274,8 +274,8 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=592900
--D__DATE__="Jan  9 2017"
--D__TIME__="20:35:19"
+-D__DATE__="Jan 24 2017"
+-D__TIME__="15:34:26"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
